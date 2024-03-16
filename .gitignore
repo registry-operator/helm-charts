@@ -1,0 +1,5 @@
+# MacOS attributes files
+.DS_Store
+
+# Release artifacts
+release/
